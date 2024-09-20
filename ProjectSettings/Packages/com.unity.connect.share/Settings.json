@@ -1,0 +1,28 @@
+{
+    "m_Name": "Settings",
+    "m_Path": "ProjectSettings/Packages/com.unity.connect.share/Settings.json",
+    "m_Dictionary": {
+        "m_DictionaryValues": [
+            {
+                "type": "System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+                "key": "firstTime",
+                "value": "{\"m_Value\":false}"
+            },
+            {
+                "type": "System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+                "key": "autoPublish",
+                "value": "{\"m_Value\":true}"
+            },
+            {
+                "type": "System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+                "key": "createDefaultBuildsFolder",
+                "value": "{\"m_Value\":true}"
+            },
+            {
+                "type": "System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+                "key": "buildOutputDirList",
+                "value": "{\"m_Value\":\"C:/Users/omarb/Downloads/Orange_Stage/VO;C:/Users/omarb/Downloads/Orange_Stage/VirtualOrange;C:/Users/omarb/Downloads/Orange_Stage/TestOrangeV;C:/Users/omarb/Downloads/Orange_Stage/html5_builds/Orange_Stage_20210928_164319_wasm_release;C:/Users/omarb/Downloads/Orange_Stage/OTest 22011;C:/Users/omarb/Downloads/Orange_Stage/TestBBuild22;C:/Users/omarb/Downloads/Orange_Stage/Tesst Build;C:/Users/omarb/Downloads/Orange_Stage/sdfsdfsdf;C:/Users/omarb/Downloads/Orange_Stage/Gibraltarddddd;C:/Users/omarb/Downloads/Orange_Stage/Vorange\"}"
+            }
+        ]
+    }
+}
